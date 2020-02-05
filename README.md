@@ -1,16 +1,24 @@
-# flutter_web_starter
+# Flutter Web
 
-A new Flutter project.
+A Flutter Web Portfolio project made on Flutter framework.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this Flutter Web Project follow the instruction given at Free course https://navoki.com/courses/flutter-web-with-github-pages/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Follow the steps and host the website and  tag with #Navoki #DeveloperJunction
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Get more tutorials and read Latest Developer and Tech Blogs at Developer Junction.
+ 
+Check out more learning content: - https://navoki.com
+
+ <a href="https://twitter.com/navokitech"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="linkedin.com/company/navoki"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.facebook.com/navokitech"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href="https://www.instagram.com/navokitech"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+
+ 
