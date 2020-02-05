@@ -16,6 +16,8 @@ Get more tutorials and read Latest Developer and Tech Blogs at Developer Junctio
  
 Check out more learning content: - https://navoki.com
 
+![website_project.PNG](website_project.PNG)
+
  <a href="https://twitter.com/navokitech"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="linkedin.com/company/navoki"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://www.facebook.com/navokitech"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
